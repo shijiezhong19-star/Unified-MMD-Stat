@@ -3,7 +3,8 @@ Official implementation of the paper:
 
 **Unified Unbiased Variance Estimation for Maximum Mean Discrepancy: Robust Finite-Sample Performance with Imbalanced Data and Exact Acceleration under Null and Alternative Hypotheses**  
 
-(arXiv:2601.13874)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.13874-b31b1b.svg)](https://arxiv.org/abs/2601.13874)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 This repository provides a unified framework for **Maximum Mean Discrepancy (MMD)** variance estimation. It addresses key challenges in kernel-based hypothesis testing:
